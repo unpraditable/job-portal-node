@@ -1,0 +1,49 @@
+/* JobDetail.css */
+
+.job-detail-container {
+  margin: 20px;
+}
+
+.job-detail-card {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+}
+
+.job-detail-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.job-detail-info {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.job-detail-description {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.job-detail-apply {
+  margin-top: 16px;
+}
+
+.job-detail-apply a {
+  display: inline-block;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.job-detail-apply a:hover {
+  background-color: #0056b3;
+}
